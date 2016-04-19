@@ -21,7 +21,7 @@ import javax.swing.table.TableModel;
  */
 /**
  *
- * @author anshumank
+ * @author lizilina
  */
 public class HW3 extends javax.swing.JFrame {
 
